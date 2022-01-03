@@ -1,3 +1,3 @@
 # BNCAGAN
-# Bi-directional Normalization and Color Attention-guided Generative Adversarial Network for Image Enhancement
+# BI-DIRECTIONAL NORMALIZATION AND COLOR ATTENTION-GUIDED GENERATIVE ADVERSARIAL NETWORK FOR IMAGE ENHANCEMENT
 # The source code of this paper will be released once it is accepted by conference ICASSP 2022.
