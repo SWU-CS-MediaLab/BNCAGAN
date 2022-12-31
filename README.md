@@ -2,7 +2,7 @@
 
 ## This paper is submitted to IEEE Transactions of Image Processing, and the extended and updated version of BNCAGAN will be released when it is accepted by TIP.
 
-The old version can be used as following:
+The old version of BNCAGAN can be used as following:
 
 ## Requirements and Installation
 We recommended the following dependencies.
