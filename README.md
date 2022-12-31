@@ -1,17 +1,6 @@
-## BI-DIRECTIONAL NORMALIZATION AND COLOR ATTENTION-GUIDED GENERATIVE ADVERSARIAL NETWORK FOR IMAGE ENHANCEMENT
+## Image Enhancement with Bi-directional Normalization and Color Attention-guided GAN
 
-#### 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
-Shan Liu, Guoqiang Xiao, Xiaohui Xu, Song Wu
-
-College of Computer and Information Science, Southwest University, Chongqing, China
-
-## Introdcurion
-
-This website shares the codes of the "BI-DIRECTIONAL NORMALIZATION AND COLOR ATTENTION-GUIDED GENERATIVE ADVERSARIAL NETWORK FOR IMAGE ENHANCEMENT", 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
-
-### Abstract
-
-Most existing image enhancement methods require paired images for supervised learning, and rarely considering the aesthetic quality. This paper proposes a bi-directional normalization and color attention-guided generative adversarial network (BNCAGAN) for unsupervised image enhancement. An auxiliary attention classifier (AAC) and a bi-directional normalization residual (BNR) module are designed to assist the generator in flexibly controlling the local details with the constraint from both the low/high-quality domain. Moreover, a color attention module (CAM) is proposed to preserve the color fidelity in the discriminator. The qualitative and quantitative experimental results demonstrated that our BNCAGAN is superior to the existing methods on image enhancement. It can effectively improve the authenticity and naturalness of the enhanced images. The source code is available at https://github.com/SWU-CS-MediaLab/BNCAGAN.
+## This paper is submitted to IEEE Transactions of Image Processing
 
 <!-- **The framework of BNCAGAN:** -->
 <img src="./figures/overview.png" width = "100%" height = "100%" div align=center>
@@ -67,17 +56,5 @@ python main.py --mode test --version BNCAGAN-FiveK --pretrained_model xx (best e
 
 ```
 
-## Citation
-
-If this code/BNCAGAN is useful for your research, please cite our paper:
-
-## Contact
-
-swu1538@email.swu.edu.cn
-
-## Acknowledgments
-
-Our code is developed based on [UEGAN](https://github.com/eezkni/UEGAN) and [UGATIT-pytorch](https://github.com/znxlwm/UGATIT-pytorch). We thank the awesome work provided by UEGAN and UGATIT.
-Great thanks to the reviewers from the ICASSP conference for their invaluable feedbacks and suggestions.
 
 
