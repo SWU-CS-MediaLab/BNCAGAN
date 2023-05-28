@@ -1,6 +1,6 @@
 ## Image Enhancement with Bi-directional Normalization and Color Attention-guided GAN
 
-## This paper is submitted to IEEE Transactions of Image Processing, and the extended and updated version of BNCAGAN will be released when it is accepted by journal of Knowledge-Based Systems.
+## This paper is submitted to Knowledge-Based Systems, and the extended and updated version of BNCAGAN will be released when it is accepted by journal of Knowledge-Based Systems.
 
 The old version of BNCAGAN can be used as following:
 
