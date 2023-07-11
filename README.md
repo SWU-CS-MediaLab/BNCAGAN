@@ -1,6 +1,6 @@
 ## Image Enhancement with Bi-directional Normalization and Color Attention-guided Generative Adversarial Networks
 
-## This paper is submitted to Engineering Applications of Artificial Intelligence, and the extended and updated version of BNCAGAN will be released when it is accepted by Journal of Expert Systems With Applications.
+## This paper is submitted to Expert Systems With Applications, and the extended and updated version of BNCAGAN will be released when it is accepted by Journal of Expert Systems With Applications.
 
 The old version of BNCAGAN can be used as following:
 
