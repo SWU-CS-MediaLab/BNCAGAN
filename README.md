@@ -1,6 +1,6 @@
 ## Image Enhancement with Bi-directional Normalization and Color Attention-guided GAN
 
-## This paper is submitted to Engineering Applications of Artificial Intelligence, and the extended and updated version of BNCAGAN will be released when it is accepted by Journal of Engineering Applications of Artificial Intelligence.
+## This paper is submitted to Engineering Applications of Artificial Intelligence, and the extended and updated version of BNCAGAN will be released when it is accepted by Journal of Expert Systems With Applications.
 
 The old version of BNCAGAN can be used as following:
 
