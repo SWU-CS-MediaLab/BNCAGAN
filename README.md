@@ -1,6 +1,6 @@
 ## Image Enhancement with Bi-directional Normalization and Color Attention-guided Generative Adversarial Networks
 
-## This paper is submitted to Image and Vision Computing, and the extended and updated version of BNCAGAN will be released when it is accepted by the Journal of Image and Vision Computing.
+## This paper is submitted to Neurocomputing, and the extended and updated version of BNCAGAN will be released when it is accepted by Neurocomputing.
 
 The old version of BNCAGAN can be used as follows:
 
