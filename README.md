@@ -1,7 +1,7 @@
 ## Image Enhancement with Bi-directional Normalization and Color Attention-guided Generative Adversarial Networks
 
 ## This paper is submitted to International Journal Of Multimedia Information Retrieval, and the extended and updated version of BNCAGAN will be released when it is accepted by International Journal Of Multimedia Information Retrieval.
-
+The new version of BNCAGAN is in the IJMIR folder. 
 The old version of BNCAGAN can be used as follows:
 
 ## Requirements and Installation
